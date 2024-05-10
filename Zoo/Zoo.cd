@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zoo.AnimalManager" Collapsed="true">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAAAAAAQAAAAFgAAAQYEAIAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\AnimalManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Animal" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABIAAAAQAAAAAAQAAAAAAAIIAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Bear" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAIAAAAAAAAAAABAAAAAAAIABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Bear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Hippo" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Hippo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Horse" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Horse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Lion" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Lion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Pig" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAIAAAAAAAAAAABAAAAAAAIABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Pig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Tiger" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAIAAAAAAAAAAAAAAAAAAAIABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Tiger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Zebra" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animals\Zebra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Carnivore" Collapsed="true">
+    <Position X="1.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AnimalType\Carnivore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Herbivore" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AnimalType\Herbivore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Omnivore" Collapsed="true">
+    <Position X="13" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AnimalType\Omnivore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.DeactivateAfterSeconds" Collapsed="true">
+    <Position X="7.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQA=</HashCode>
+      <FileName>Assets\Scripts\DeactivateAfterSeconds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Debugger" Collapsed="true">
+    <Position X="9" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Debugger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.RandomMoverInBounds" Collapsed="true">
+    <Position X="5.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAACAAAAAAAAAAAAgAAAAMAQACAAAAAABAgAA=</HashCode>
+      <FileName>Assets\Scripts\RandomMoverInBounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo.Spawner" Collapsed="true">
+    <Position X="7.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAAAAAAAAAACIA=</HashCode>
+      <FileName>Assets\Scripts\Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
